@@ -32,7 +32,7 @@ Explorer: https://sepolia.basescan.org
 
 ## Repository layout
 
-- app.opal-tideforge.ts  
+- app/opal-tideforge.ts  
   Frontend script responsible for wallet connection, RPC calls, and UI rendering.
 
 - contracts/  
